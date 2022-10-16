@@ -1,4 +1,4 @@
-# Dijsktra-s-Algorithm-Optimization
+# Dijsktra-Algorithm-Optimization
 [**A Fast Algorithm to Find All-Pairs Shortest Paths in Complex Networks**](https://www.sciencedirect.com/science/article/pii/S1877050912001810)
 
 In this project, the above mentioned paper is implemeted,
