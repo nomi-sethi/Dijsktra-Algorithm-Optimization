@@ -7,4 +7,4 @@ and original dijsktra algorithm are optimized with the suggestions given in this
 Later, the results are compared with the Floyd-Marshell Algorithm of all-pairs shortest path
 which are given are displayed graphically.
 
-For the complete understanding, you should read the paper first. Thank You!
+Should you need the deep understanding, kindly read the paper. Thank You!
